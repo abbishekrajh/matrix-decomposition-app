@@ -23,6 +23,7 @@ To run this application locally on your machine, follow these steps:
 * **Reconstruction Verification:** A built-in mathematical proof engine that multiplies the decomposed matrices back together to verify they match the original input (accounting for floating-point errors).
 
 ## Project Structure
+```text
 matrix-decomposition-app/
 ├── app.py                # Main Streamlit frontend and routing
 ├── requirements.txt      # Project dependencies
@@ -37,6 +38,7 @@ matrix-decomposition-app/
 └── utils/                # Helper functions and validation
     ├── __init__.py
     ├── helpers.py        # Matrix reconstruction and CSV export logic
+```
 
 ## Screenshots
 
