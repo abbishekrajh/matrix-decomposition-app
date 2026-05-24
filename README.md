@@ -45,16 +45,21 @@ matrix-decomposition-app/
 *(Drag and drop your updated screenshots here!)*
 
 1. **User Interface & Input:**
-![alt text](<Screenshot 2026-05-25 at 12.03.48 AM.png>)
+<img width="1512" height="982" alt="Screenshot 2026-05-25 at 12 03 48 AM" src="https://github.com/user-attachments/assets/b08080e2-156a-4e3e-9be9-58bb237d9e9f" />
+
 
 2. **Heatmap & Decomposition Results:**
-![alt text](<Screenshot 2026-05-25 at 12.04.17 AM.png>)
+<img width="1512" height="982" alt="Screenshot 2026-05-25 at 12 04 17 AM" src="https://github.com/user-attachments/assets/3a0452b0-3141-4e13-9add-ca0980446ce4" />
+
 
 3. **Step-by-Step Educational View:**
-![alt text](<Screenshot 2026-05-25 at 12.04.38 AM.png>)
+
+
 
 4. **Bonus Reconstruction & Export:**
-![alt text](<Screenshot 2026-05-25 at 12.04.46 AM.png>)
+<img width="1512" height="982" alt="Screenshot 2026-05-25 at 12 04 46 AM" src="https://github.com/user-attachments/assets/f7e8c1cf-1c86-413c-afb8-be8bf0573e57" />
+
 
 5. **Performance Comparison Chart**
-![alt text](<Screenshot 2026-05-25 at 12.08.25 AM.png>)
+<img width="1512" height="982" alt="Screenshot 2026-05-25 at 12 08 25 AM" src="https://github.com/user-attachments/assets/13e428e9-0ff5-4d12-9b8b-b6d6f11a050d" />
+
